@@ -1,4 +1,4 @@
-Hi 👋, I'm Usman Nawaz<br><br>Data Analytics at Circadia Health | Front-End | JS | React 
+Hello, I'm Usman Nawaz<br><br>Data Analytics at Circadia Health | Front-End | JS | React 
 
 
 ## 🌐 Socials:
